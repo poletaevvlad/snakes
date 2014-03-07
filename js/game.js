@@ -16,7 +16,7 @@ window.onload = function(){
 	initSnakeField();
 	initGameboard();
 	initResults();
-	results.load();
+	menu.load();
 
 	window.addEventListener("keydown", function(e) {
     // space and arrow keys

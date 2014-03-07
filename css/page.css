@@ -1,0 +1,34 @@
+body{
+	background: #333;
+	font-family: sans-serif;
+}
+
+#content{
+	width: 800px;
+	margin:10px auto;
+}
+	#game{
+		width: 800px;
+		height: 600px;
+		background: #222;
+		border: 1px solid #444;
+	}
+	#canvas{
+		width: 100%;
+		height: 100%;
+	}
+
+header h1{
+	font-family: Audiowide;
+	color: rgb(13, 199, 13);
+}
+
+#copyright{
+	font-family: Audiowide;
+	color: #666;
+	font-size: 10px;
+	text-align: right;
+}
+#copyright a{
+	color: rgb(14,161,14);
+}
